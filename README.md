@@ -5,12 +5,12 @@ Preprocessed with simple threshold as GTA text is white.
 
 # Input screenshot:
 
-![input](doc\input.png)
+![input](doc/input.png)
 
 # Preprocessed with OCR boxes
 
-![input](doc\preprocessed.png)
+![input](doc/preprocessed.png)
 
 # Output tab seperated text
 
-![input](doc\tsv.png)
+![input](doc/tsv.png)
